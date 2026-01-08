@@ -1,5 +1,5 @@
-user = None 
-if user!=None and user == "Admin access":
+user = "Admin access"
+if user != None and user == "Admin access":
     print(True)
 else:
     print(False)
